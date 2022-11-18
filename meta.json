@@ -13,7 +13,7 @@
   "heads": [
     {
       "name": "nbcnews",
-      "version": "1.0.4",
+      "version": "1.0.6",
       "author": "Thiago Navarro",
       "desc": "NBC News scraper",
       "license": "gpl-3.0-only",
@@ -35,14 +35,14 @@
           }
         },
         {
-          "name": "scraper",
+          "name": "https://github.com/thisago/useragent",
           "str": "any version",
           "ver": {
             "kind": "verAny"
           }
         },
         {
-          "name": "https://gitlab.com/lurlo/useragent",
+          "name": "util",
           "str": "any version",
           "ver": {
             "kind": "verAny"
